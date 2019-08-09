@@ -23,18 +23,22 @@ Implementation Modules:
 ⦁	Staff
 
 ADMIN MODULE:
+
      This module provides administrator related functionalities. System can be entered using a username and password. The admin has the whole power. He enters the Staff details, Premium details etc. He has the overall access to all policy and staff details
 
 In admin module
+
 1. Update premium chart 
 2. Access all policy details
 3. Enter staff detail 
 4. Grant staff login permission 
 
 STAFF MODULE:
+
       This module is for the staffs, the staff’s login to this module using the user name and password provided by the admin. They enters the details about customers, their vehicles and policy details
 
 In staff module
+
 1. Enter customer details
 2. Enter vehicle details
 3. Enter policy details
