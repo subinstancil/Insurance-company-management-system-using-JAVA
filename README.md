@@ -9,9 +9,13 @@ Hence there is need for an automated system, which can efficiently manage the co
 There are following main objectives
  
 ⦁	Staff  Management
+
 ⦁	Customer Management
+
 ⦁	Policy management
+
 ⦁	Get Up to date  Policy Details
+
 Implementation Modules:
 ⦁	Admin
 ⦁	Staff
